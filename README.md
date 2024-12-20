@@ -1,14 +1,6 @@
 # QC Study
 These files are full of questions you are likely to be asked as part of QC. You should focus your QC studies on these, but know that you may get asked questions that you didn't see here. If you see something in these files that you don't think was covered in training, please let your trainer know. 
 
-
-### Current topics - Java SQL REST competency - QC on Wednessday 12/6/23
- - [Hibernate](./qc-hibernate.md)
- - [Spring](./qc-spring.md)
- - [HTML](./qc-html.md)
- - [CSS](./qc-css.md)
- - [JavaScript](./qc-javascript.md)
-
 ### Backend:
  - [OOP](./oop.md)
  - [Java Basics](./java-basics.md)
