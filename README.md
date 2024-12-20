@@ -13,6 +13,7 @@ These files are full of questions you are likely to be asked as part of QC. You 
  - [Software Development Lifecycle](./qc-sdlc.md)
  - [Hibernate](./qc-hibernate.md)
  - [Spring](./qc-spring.md)
+ - [MSA](./qc-msa.md)
 
 ### Frontend:
  - [HTML](./qc-html.md)
@@ -20,6 +21,7 @@ These files are full of questions you are likely to be asked as part of QC. You 
  - [JavaScript](./qc-javascript.md)
  - [TypeScript](./qc-typescript.md)
  - [Angular](./qc-angular.md)
+ - [React & Redux](./qc-react-ak.md)
  - [AJAX](./qc-ajax.md)
 
 ### Web Services:
@@ -33,10 +35,6 @@ These files are full of questions you are likely to be asked as part of QC. You 
  - [DevOps & Agile](./qc-sdlc-devops.md)
  - [AWS](./qc-aws.md)
  - [Docker](./qc-docker.md)
-
-### Stuff Not In Our Curriculum That You May Find Interesting:
- - [MSA](./qc-msa.md)
- - [React & Redux](./qc-react-ak.md)
 
 
 ### Keep the following in mind for QCs:
